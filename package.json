@@ -19,6 +19,14 @@
   ],
   "author": "Yassine",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yassine955/discord-bot-starter-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yassine955/discord-bot-starter-kit/issues"
+  },
+  "homepage": "https://github.com/yassine955/discord-bot-starter-kit#readme",
   "dependencies": {
     "inquirer": "^7.0.4",
     "ncp": "^2.0.0"
