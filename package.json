@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot-starter",
+  "version": "1.0.0",
+  "description": "discord-bot-starter is a template generator that generates a basic Discord bot 😃",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "javascript",
+    "typescript",
+    "discord.js",
+    "starter",
+    "kit",
+    "discord bot"
+  ],
+  "author": "Yassine",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.0.4",
+    "ncp": "^2.0.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Yassine",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "axios": "^0.19.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.2",
+    "unirest": "^0.6.0"
+  }
+}
