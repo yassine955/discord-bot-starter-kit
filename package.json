@@ -1,6 +1,6 @@
 {
   "name": "discord-bot-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "discord-bot-starter is a template generator that generates a basic Discord bot 😃",
   "main": "index.js",
   "bin": "index.js",
